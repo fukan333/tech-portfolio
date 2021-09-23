@@ -1,11 +1,11 @@
 ---
 id: about
-title: About
+title: Research Scientist
 ---
 
 Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
-###	+6 years coding experiences using Python / Java / MATLAB
-###	Excellent in establishing and conducting complex workflow. Multiple tasks Management.
++6 years coding experiences using Python / Java / MATLAB
+Excellent in establishing and conducting complex workflow. Multiple tasks Management.
 
 ## Current Role
 Research Scientist
