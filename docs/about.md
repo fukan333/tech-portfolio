@@ -3,19 +3,9 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
+#	+6 years coding experiences using Python / Java / MATLAB
+#	Excellent in establishing and conducting complex workflow. Multiple tasks Management.
 
 ## Current Role
 Research Scientist
@@ -26,6 +16,6 @@ Research Scientist
 
 ## Social Media
 
-- Twitter
+- Twitter (twitter.com/fukan333)
 - LinkedIn (www.linkedin.com/in/kan-fu-70045264)
-- GitHub
+- GitHub (https://github.com/fukan000)
