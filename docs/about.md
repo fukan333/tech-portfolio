@@ -1,11 +1,12 @@
 ---
-id: about
-title: Research Scientist
+Auther: Kan Fu
+Version: 1.07
+Date: 09/24/2021
 ---
 
-Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
-+6 years coding experiences using Python / Java / MATLAB
-Excellent in establishing and conducting complex workflow. Multiple tasks Management.
+#### Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
+- +6 years coding experiences using Python / Java / MATLAB
+- Excellent in establishing and conducting complex workflow. Multiple tasks Management.
 
 ## Technical Background
 - Python / Java / MATLAB
@@ -15,9 +16,12 @@ Excellent in establishing and conducting complex workflow. Multiple tasks Manage
 ## Current Role
 Research Scientist
 
-## Recognition
-
-- Deep Learning Specialization (deeplearning.ai)
+## Courses & Certificates
+- Algorithms & Data Structures,
+- Python for Everyone Specialization
+- Machine Learning (Stanford)
+- Java Programming, Object Oriented programming
+- Deep Learning Specialization
 
 ## Social Media
 
