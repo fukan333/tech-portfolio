@@ -8,9 +8,9 @@ Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
 Excellent in establishing and conducting complex workflow. Multiple tasks Management.
 
 ## Technical Background
-Python / Java / MATLAB
-Tensorflow / Linux
-Machine Learning / Data Analysis
+- Python / Java / MATLAB
+- Tensorflow / Linux
+- Machine Learning / Data Analysis
 
 ## Current Role
 Research Scientist
