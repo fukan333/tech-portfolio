@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Kan Fu Blog</title>
+        <link>https://fukan333.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Kan Fu news and events.</description>
+        <lastBuildDate>Tue, 01 Sep 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Kan Fu Blog</title>
+            <url>https://fukan333.github.io/tech-portfolio/undefined</url>
+            <link>https://fukan333.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2021 Kan Fu</copyright>
+        <item>
+            <title><![CDATA[Deep Learning Specialization]]></title>
+            <link>https://fukan333.github.io/tech-portfolio/blog/2020/09/01/blog-post.html</link>
+            <guid>https://fukan333.github.io/tech-portfolio/blog/2020/09/01/blog-post.html</guid>
+            <pubDate>Tue, 01 Sep 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I got Deep Learning Specialization certificate (5 courses) from deeplearning.ai!</p> <ul> <li>Neural Networks and Deep Learning</li> <li>Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</li> <li>Structuring Machine Learning Projects</li> <li>Convoluti...</li></ul>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Learn Object-Oriented Programming and Design Patterns]]></title>
+            <link>https://fukan333.github.io/tech-portfolio/blog/2020/07/012/blog-post.html</link>
+            <guid>https://fukan333.github.io/tech-portfolio/blog/2020/07/012/blog-post.html</guid>
+            <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I finished an Object-Oriented Programming course</p> <ul> <li>Intro of OOP</li> <li>Management System</li> <li>Reservation System</li> <li>Realworld Objects</li> <li>Games</li> </ul> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Learn Data Structures and Algorithms]]></title>
+            <link>https://fukan333.github.io/tech-portfolio/blog/2020/07/01/blog-post.html</link>
+            <guid>https://fukan333.github.io/tech-portfolio/blog/2020/07/01/blog-post.html</guid>
+            <pubDate>Wed, 01 Jul 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>I finished the Data Structures and Algorithms Course.</p> <ul> <li>Binary Search</li> <li>Two Pointers</li> <li>BFS</li> <li>DFS</li> <li>Recursion</li> <li>Binary Tree / Linked List / Array / Queue / Hashmap/ Heap / Deque / Monotone Stack / Union set / Trie</li> <li>DP</li> <li>BackPack</li> </ul> ]]></description>
+        </item>
+    </channel>
+</rss>
