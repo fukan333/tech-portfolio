@@ -1,20 +1,25 @@
 ---
 Auther: Kan Fu
-Version: 1.07
-Date: 09/24/2021
+Version: 1.08
+Date: 10/02/2021
 ---
 
-#### Ph.D. Materials Science & Engineering, University of California, Irvine	MAY 2019
-- +6 years coding experiences using Python / Java / MATLAB
-- Excellent in establishing and conducting complex workflow. Multiple tasks Management.
+#### Ph.D. Materials Science, University of California, Irvine 2019
+-	+6 Years’ coding experience on mathematical models, data analysis using Python, Java, and MATLAB.
+-	Self-Motivator & Quick learner. Excellent in research capability and problem solving. 
+-	Seeking for engineer / scientist role in IT industry.
+
 
 ## Technical Background
-- Python / Java / MATLAB
-- Tensorflow / Linux
-- Machine Learning / Data Analysis
+- Python / Java / MATLAB / Html / CSS / JavaScript / MySQL
+- Tensorflow / Git / Linux / scikit-learn / Panda / NumPy / Matplotlib
+- Machine Learning / Software Development / Data Structure & Algorithms
+
 
 ## Current Role
-Research Scientist
+####	Research Scientist, Aegis Technology, Inc
+-	Led the design and conduction in research plans of thermal interface material for next generation circuit board, and photoelectronic devices. 
+
 
 ## Courses & Certificates
 - Algorithms & Data Structures,
@@ -26,5 +31,5 @@ Research Scientist
 ## Social Media
 
 - Twitter (twitter.com/fukan333)
-- LinkedIn (www.linkedin.com/in/kan-fu-70045264)
+- LinkedIn (www.linkedin.com/in/kan-fu)
 - GitHub (https://github.com/fukan333)
